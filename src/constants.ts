@@ -189,3 +189,5 @@ export const INITIAL_TASKS: Task[] = [
     isEssential: false,
   },
 ];
+
+export const DAYS = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday'];
